@@ -2,12 +2,12 @@
 Datasets created for a sentiment analysis study of song lyrics by the most listened artists on Spotify Brazil (2014–2023).
 
 Datasets criados para o Trabalho de Conclusão de Curso (TCC) sobre análise de sentimento em letras de músicas, considerando os artistas mais ouvidos no Spotify Brasil entre 2014 e 2023.  
-A análise de sentimento das letras foi realizada utilizando o modelo **BERTimbau**, pré-treinado para a língua portuguesa.
+A análise de sentimento das letras foi realizada utilizando o modelo **BERTimbau**, pré-treinado para a língua portuguesa e ajustado a partir do dataset GoEmotions.
 
 ## Contexto e Objetivo
 Este repositório reúne três bases de dados elaboradas a partir de informações do Spotify Brasil entre 2014 e 2023. O objetivo do trabalho é investigar como técnicas de análise de sentimento podem ser aplicadas às letras de músicas, observando padrões linguísticos e emocionais na produção dos artistas mais populares do período.  
 
-A análise de sentimento das letras foi realizada com o modelo **BERTimbau**, que permite classificar emoções e gerar scores de sentimento em textos em português.
+A análise de sentimento das letras foi realizada com o modelo **BERTimbau** ajustado a partir do dataset GoEmotions, permitindo classificar emoções e gerar scores de sentimento em textos em português.
 
 ---
 
